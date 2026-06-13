@@ -1,0 +1,8 @@
+const isevenorodd  = (number) => {
+    if(number %2 === 0){
+        console.log("number is even ")
+    }else{console.log("number is odd ")}
+}
+
+isevenorodd(7)
+isevenorodd(4)
